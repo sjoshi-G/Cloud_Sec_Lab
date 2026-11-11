@@ -39,10 +39,10 @@ Enabled SSH monitoring
 Confirmed active ports using ss -tulnp
 Reviewed authentication logs
 
-### Screenshots
+## Screenshots
 Screenshots demonstrating each phase are available in the screenshots directory.
 
-### Skills Demonstrated
+## Skills Demonstrated
 Linux Administration
 Cloud Security
 Network Security
